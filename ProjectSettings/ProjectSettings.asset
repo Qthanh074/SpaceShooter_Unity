@@ -870,12 +870,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 3b8a30bc-57b4-4f7e-bd4d-f0a5f9e774ee
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Space Shooter FREE
+  projectName: SpaceShooter 2026-01-23_20-11-56
   organizationId: daoquangthanh0704
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
