@@ -195,5 +195,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b38ebc3743e19546b98661bac59416f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAttack
-  health: {fileID: 0}
+  health: {fileID: 2478712241415693802}
   damage: 1
